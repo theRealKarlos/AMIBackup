@@ -1,3 +1,9 @@
+#git init
+#git add .
+#git commit -m "first commit"
+#git remote add origin https://github.com/username/project.git
+#git push -u origin master
+
 import boto3
 import collections
 import datetime
